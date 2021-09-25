@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://muthukamaland.github.io/csb-xe6vc/static/css/main.078c1175.chunk.css",
+    "main.js": "https://muthukamaland.github.io/csb-xe6vc/static/js/main.5db70f0e.chunk.js",
+    "main.js.map": "https://muthukamaland.github.io/csb-xe6vc/static/js/main.5db70f0e.chunk.js.map",
+    "runtime-main.js": "https://muthukamaland.github.io/csb-xe6vc/static/js/runtime-main.fb06484b.js",
+    "runtime-main.js.map": "https://muthukamaland.github.io/csb-xe6vc/static/js/runtime-main.fb06484b.js.map",
+    "static/js/2.74deffe8.chunk.js": "https://muthukamaland.github.io/csb-xe6vc/static/js/2.74deffe8.chunk.js",
+    "static/js/2.74deffe8.chunk.js.map": "https://muthukamaland.github.io/csb-xe6vc/static/js/2.74deffe8.chunk.js.map",
+    "index.html": "https://muthukamaland.github.io/csb-xe6vc/index.html",
+    "static/css/main.078c1175.chunk.css.map": "https://muthukamaland.github.io/csb-xe6vc/static/css/main.078c1175.chunk.css.map",
+    "static/js/2.74deffe8.chunk.js.LICENSE.txt": "https://muthukamaland.github.io/csb-xe6vc/static/js/2.74deffe8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb06484b.js",
+    "static/js/2.74deffe8.chunk.js",
+    "static/css/main.078c1175.chunk.css",
+    "static/js/main.5db70f0e.chunk.js"
+  ]
+}
